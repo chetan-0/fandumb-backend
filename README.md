@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Node.js Project
 
 This is a sample Node.js project.
@@ -10,3 +11,6 @@ This is a sample Node.js project.
 ## Usage
 
 To start the application, run:
+=======
+# fandumb-backend
+>>>>>>> ee476018ea37e579f407835de280bf94819b315a
